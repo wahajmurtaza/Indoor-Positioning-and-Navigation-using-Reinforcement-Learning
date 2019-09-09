@@ -1,4 +1,4 @@
-Three anchors are used connected to arduino pro mini
+Three anchors are used in which UWB is connected to arduino pro mini
 The tag is connected to software serial of nodemcu i.e (D8,D7)
 Vehicle is controlled by Arduino Uno connected to NodeMCU Tx,Rx
 
