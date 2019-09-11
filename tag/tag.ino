@@ -30,7 +30,7 @@ void setup() {
   //Serial.println("started");
   
   //we start the module as a tag
-  DW1000Ranging.startAsTag("0A:00:22:EA:82:60:3B:9C", DW1000.MODE_LONGDATA_RANGE_ACCURACY, DW1000.CHANNEL_7,false);
+  DW1000Ranging.startAsTag("0A:00:22:EA:82:60:3B:9C", DW1000.MODE_LONGDATA_RANGE_ACCURACY, DW1000.CHANNEL_5,false);
 }
 
 void loop() {
